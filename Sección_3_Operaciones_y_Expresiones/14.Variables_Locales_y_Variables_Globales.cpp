@@ -13,7 +13,7 @@ int main(){
 	}
 	
 // Variables Globales
-	variable +=5
-	printf("\nValor de variable:")
+	variable +=5;
+	printf("\nValor de variable: %i", variable);
 
 }
